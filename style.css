@@ -1,0 +1,29 @@
+body {
+  background-color: LightSteelBlue;
+    font-family: 'Nanum Myeongjo', serif;
+}
+
+img {
+  height: 300px;
+  weight: 500px;
+}
+
+a {
+  color: DimGrey;
+}
+p{
+  font-style: normal;
+  font-weight: bold;
+  font-size: 15px;
+}
+#header{
+  color:DimGrey;
+  font-weight: 900;
+}
+#signature{
+  font-size: 20px;
+  font-family: 'Shadows Into Light', cursive;
+}
+.link{
+  color: black;
+}
